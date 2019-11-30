@@ -1,0 +1,37 @@
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
+C:\Users\fall2017\Desktop\STORE\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+C:\Users\fall2017\Desktop\STORE\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+C:\Users\fall2017\Desktop\STORE\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
+C:\Users\fall2017\Desktop\STORE\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+C:\Users\fall2017\Desktop\STORE\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+C:\Users\fall2017\Desktop\STORE\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.csprojResolveAssemblyReference.cache
+D:\STORE\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+D:\STORE\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+D:\STORE\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
+G:\STORE\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+G:\STORE\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+G:\STORE\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
+D:\STORE\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+D:\STORE\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+D:\STORE\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.csprojResolveAssemblyReference.cache
+F:\STORE\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+F:\STORE\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+F:\STORE\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+F:\STORE\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
+E:\BAHRIA\Lectures\Computer Programing\Project\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+E:\BAHRIA\Lectures\Computer Programing\Project\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+E:\BAHRIA\Lectures\Computer Programing\Project\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
+E:\BAHRIA\Lectures\Computer Programing\Project\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+E:\BAHRIA\Lectures\Computer Programing\Project\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+E:\BAHRIA\Lectures\Computer Programing\Project\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.csprojResolveAssemblyReference.cache
+E:\BAHRIA\Lectures\Computer Programing\Project\Store Management System\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+E:\BAHRIA\Lectures\Computer Programing\Project\Store Management System\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+E:\BAHRIA\Lectures\Computer Programing\Project\Store Management System\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
+C:\Users\uzair\Desktop\store management\Store Management System\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+C:\Users\uzair\Desktop\store management\Store Management System\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+C:\Users\uzair\Desktop\store management\Store Management System\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb
